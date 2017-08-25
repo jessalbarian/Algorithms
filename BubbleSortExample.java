@@ -1,5 +1,6 @@
 /* Bubble Sort Example in Java */
 /* Bubble sort works by repeatedly swapping the adjacent elements if they are in wrong order */
+/* Runs in O(n^2) time */
 
 
 import java.io.File;
